@@ -1,5 +1,6 @@
 # Real Estate NFT DApp
-
+This project implements a blockchain real estate app like Zillow; it’s an online shop where the seller lists properties for sale and the buyers can buy using cryptocurrency.
+Property ownership is modeled in blockchain NFTs. And the transfer and selling property is done via smart contracts. 
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
